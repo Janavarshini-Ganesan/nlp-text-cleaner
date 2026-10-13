@@ -2,7 +2,7 @@
 
 A **VS Code-styled** text preprocessing web app built with **Streamlit**. Paste raw text, switch cleaning steps on or off, and see exactly what changed in a live side-by-side diff.
 
-🔗 **Live demo:** [[https://YOUR-APP-NAME.streamlit.app](https://nlp-text-cleaner.streamlit.app/)]
+🔗 **Live demo:** [https://nlp-text-cleaner.streamlit.app/]
 
 <!-- Add a screenshot: save it as screenshots/diff-view.png and uncomment the line below -->
 <!-- ![App screenshot](screenshots/diff-view.png) -->
