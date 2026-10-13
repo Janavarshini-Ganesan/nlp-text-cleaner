@@ -1,0 +1,5 @@
+nltk
+contractions
+streamlit
+spacy
+emoji
